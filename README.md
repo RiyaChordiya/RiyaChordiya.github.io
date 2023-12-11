@@ -28,7 +28,7 @@ Data Source: https://www.kaggle.com/datasets/siddharthmandgi/tripadvisor-restaur
 The content-based recommender system successfully provides restaurant recommendations based on the user's preferences and location. It offers a way for users to discover new restaurants that match their tastes and are located in their desired state and city.
 
 **Deployment Site**
-https://riyachordiya.github.io/
+https://davidsonity-restaurants-recommendation-system-app-wqpses.streamlitapp.com/
 
 **Implementation**
 
