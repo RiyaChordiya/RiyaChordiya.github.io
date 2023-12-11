@@ -6,10 +6,10 @@ from folium import plugins
 from streamlit_folium import folium_static
 
 # Load cleaned data
-df = pd.read_csv('clean_data.csv')
+df = pd.read_csv('C:\\Users\\Riya\\Downloads\\sample\\FoodieFinders\\clean_data.csv')
 
 # Load Similarity Matrix
-sim_matrix = np.load('sim_matrix.npz')
+sim_matrix = np.load('C:\\Users\\Riya\\Downloads\\sample\\FoodieFinders\\sim_matrix.npz')
 sim_matrix = sim_matrix['a']
 
 names = list(df['Name'].unique())
